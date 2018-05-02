@@ -1,0 +1,64 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("bkg.jpg");
+	background-size: cover;
+}
+
+.main_wrapper {
+	width: 80%;
+	border-radius: 15px;
+	margin-left: 10%;
+	margin-top: 2%;
+}
+
+.front {
+	width: 100%;
+	height: 400px;
+	background-image: url("repair.jpeg");
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+hr {
+	border-style: ridge;
+	height: 6px;
+	color: black;
+	background-color: black;
+}
+
+.linner {
+	background-color: white;
+}
+
+.arrowimg {
+	height: 9%;
+	margin-top: 10px;
+}
+
+.arrow {
+
+}
+
+.panel {
+	width: 100%;
+	background-color: white;
+	height: 40px;
+	border-radius: 15px;
+}
+
+.left {
+	float: left;
+	margin-left: 30px;
+	font-size: 25px;
+	font-family: sans-serif;
+}
+
+.content {
+	height: 50%;
+	background-color: white;
+}
